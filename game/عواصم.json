@@ -1,318 +1,240 @@
 [
   {
     "question": "أفغانستان",
-    "response": "كابول"
-  },
+    "responses": ["كابول"] } ,
   {
     "question": "ألبانيا",
-    "response": "تيرانا"
-  },
+    "responses": ["تيرانا"] } ,
   {
     "question": "الجزائر",
-    "response": "الجزائر"
-  },
+    "responses": ["الجزائر"] } ,
   {
     "question": "أندورا",
-    "response": "أندورا لا فيلا"
-  },
+    "responses": ["أندورا لا فيلا"] } ,
   {
     "question": "أنغولا",
-    "response": "لواندا"
-  },
+    "responses": ["لواندا"] } ,
   {
     "question": "الأرجنتين",
-    "response": "بوينس آيرس"
-  },
+    "responses": ["بوينس آيرس"] } ,
   {
     "question": "أرمينيا",
-    "response": "يريفان"
-  },
+    "responses": ["يريفان"] } ,
   {
     "question": "أستراليا",
-    "response": "كانبيرا"
-  },
+    "responses": ["كانبيرا"] } ,
   {
     "question": "النمسا",
-    "response": "فيينا"
-  },
+    "responses": ["فيينا"] } ,
   {
     "question": "أذربيجان",
-    "response": "باكو"
-  },
+    "responses": ["باكو"] } ,
   {
     "question": "البحرين",
-    "response": "المنامة"
-  },
+    "responses": ["المنامة"] } ,
   {
     "question": "بنغلاديش",
-    "response": "دكا"
-  },
+    "responses": ["دكا"] } ,
   {
     "question": "بلجيكا",
-    "response": "بروكسل"
-  },
+    "responses": ["بروكسل"] } ,
   {
     "question": "البرازيل",
-    "response": "برازيليا"
-  },
+    "responses": ["برازيليا"] } ,
   {
     "question": "بلغاريا",
-    "response": "صوفيا"
-  },
+    "responses": ["صوفيا"] } ,
   {
     "question": "كندا",
-    "response": "أوتاوا"
-  },
+    "responses": ["أوتاوا"] } ,
   {
     "question": "الصين",
-    "response": "بكين"
-  },
+    "responses": ["بكين"] } ,
   {
     "question": "كولومبيا",
-    "response": "بوغوتا"
-  },
+    "responses": ["بوغوتا"] } ,
   {
     "question": "كرواتيا",
-    "response": "زغرب"
-  },
+    "responses": ["زغرب"] } ,
   {
     "question": "كوبا",
-    "response": "هافانا"
-  },
+    "responses": ["هافانا"] } ,
   {
     "question": "قبرص",
-    "response": "نيقوسيا"
-  },
+    "responses": ["نيقوسيا"] } ,
   {
     "question": "التشيك",
-    "response": "براغ"
-  },
+    "responses": ["براغ"] } ,
   {
     "question": "الدنمارك",
-    "response": "كوبنهاغن"
-  },
+    "responses": ["كوبنهاغن"] } ,
   {
     "question": "مصر",
-    "response": "القاهرة"
-  },
+    "responses": ["القاهرة"] } ,
   {
     "question": "فرنسا",
-    "response": "باريس"
-  },
+    "responses": ["باريس"] } ,
   {
     "question": "ألمانيا",
-    "response": "برلين"
-  },
+    "responses": ["برلين"] } ,
   {
     "question": "اليونان",
-    "response": "أثينا"
-  },
+    "responses": ["أثينا"] } ,
   {
     "question": "الهند",
-    "response": "نيودلهي"
-  },
+    "responses": ["نيودلهي"] } ,
   {
     "question": "إندونيسيا",
-    "response": "جاكرتا"
-  },
+    "responses": ["جاكرتا"] } ,
   {
     "question": "إيران",
-    "response": "طهران"
-  },
+    "responses": ["طهران"] } ,
   {
     "question": "إيطاليا",
-    "response": "روما"
-  },
+    "responses": ["روما"] } ,
   {
     "question": "اليابان",
-    "response": "طوكيو"
-  },
+    "responses": ["طوكيو"] } ,
   {
     "question": "الأردن",
-    "response": "عمان"
-  },
+    "responses": ["عمان"] } ,
   {
     "question": "كازاخستان",
-    "response": "أستانا"
-  },
+    "responses": ["أستانا"] } ,
   {
     "question": "كينيا",
-    "response": "نيروبي"
-  },
+    "responses": ["نيروبي"] } ,
   {
     "question": "كوريا الجنوبية",
-    "response": "سول"
-  },
+    "responses": ["سول"] } ,
   {
     "question": "الكويت",
-    "response": "مدينة الكويت"
-  },
+    "responses": ["مدينة الكويت"] } ,
   {
     "question": "لبنان",
-    "response": "بيروت"
-  },
+    "responses": ["بيروت"] } ,
   {
     "question": "ليبيا",
-    "response": "طرابلس"
-  },
+    "responses": ["طرابلس"] } ,
   {
     "question": "المكسيك",
-    "response": "مكسيكو سيتي"
-  },
+    "responses": ["مكسيكو سيتي"] } ,
   {
     "question": "المغرب",
-    "response": "الرباط"
-  },
+    "responses": ["الرباط"] } ,
   {
     "question": "هولندا",
-    "response": "أمستردام"
-  },
+    "responses": ["أمستردام"] } ,
   {
     "question": "نيجيريا",
-    "response": "أبوجا"
-  },
+    "responses": ["أبوجا"] } ,
   {
     "question": "النرويج",
-    "response": "أوسلو"
-  },
+    "responses": ["أوسلو"] } ,
   {
     "question": "عمان",
-    "response": "مسقط"
-  },
+    "responses": ["مسقط"] } ,
   {
     "question": "باكستان",
-    "response": "إسلام أباد"
-  },
+    "responses": ["إسلام أباد"] } ,
   {
     "question": "فلسطين",
-    "response": "القدس"
-  },
+    "responses": ["القدس"] } ,
   {
     "question": "الفلبين",
-    "response": "مانيلا"
-  },
+    "responses": ["مانيلا"] } ,
   {
     "question": "بولندا",
-    "response": "وارسو"
-  },
+    "responses": ["وارسو"] } ,
   {
     "question": "البرتغال",
-    "response": "لشبونة"
-  },
+    "responses": ["لشبونة"] } ,
   {
     "question": "قطر",
-    "response": "الدوحة"
-  },
+    "responses": ["الدوحة"] } ,
   {
     "question": "رومانيا",
-    "response": "بوخارست"
-  },
+    "responses": ["بوخارست"] } ,
   {
     "question": "روسيا",
-    "response": "موسكو"
-  },
+    "responses": ["موسكو"] } ,
   {
     "question": "السعودية",
-    "response": "الرياض"
-  },
+    "responses": ["الرياض"] } ,
   {
     "question": "السنغال",
-    "response": "داكار"
-  },
+    "responses": ["داكار"] } ,
   {
     "question": "صربيا",
-    "response": "بلغراد"
-  },
+    "responses": ["بلغراد"] } ,
   {
     "question": "سنغافورة",
-    "response": "سنغافورة"
-  },
+    "responses": ["سنغافورة"] } ,
   {
     "question": "سلوفاكيا",
-    "response": "براتيسلافا"
-  },
+    "responses": ["براتيسلافا"] } ,
   {
     "question": "سلوفينيا",
-    "response": "ليوبليانا"
-  },
+    "responses": ["ليوبليانا"] } ,
   {
     "question": "الصومال",
-    "response": "مقديشو"
-  },
+    "responses": ["مقديشو"] } ,
   {
     "question": "جنوب أفريقيا",
-    "response": "بريتوريا"
-  },
+    "responses": ["بريتوريا"] } ,
   {
     "question": "إسبانيا",
-    "response": "مدريد"
-  },
+    "responses": ["مدريد"] } ,
   {
     "question": "السودان",
-    "response": "الخرطوم"
-  },
+    "responses": ["الخرطوم"] } ,
   {
     "question": "السويد",
-    "response": "ستوكهولم"
-  },
+    "responses": ["ستوكهولم"] } ,
   {
     "question": "سويسرا",
-    "response": "برن"
-  },
+    "responses": ["برن"] } ,
   {
     "question": "سوريا",
-    "response": "دمشق"
-  },
+    "responses": ["دمشق"] } ,
   {
     "question": "تايوان",
-    "response": "تايبيه"
-  },
+    "responses": ["تايبيه"] } ,
   {
     "question": "تنزانيا",
-    "response": "دودوما"
-  },
+    "responses": ["دودوما"] } ,
   {
     "question": "تايلاند",
-    "response": "بانكوك"
-  },
+    "responses": ["بانكوك"] } ,
   {
     "question": "تونس",
-    "response": "تونس"
-  },
+    "responses": ["تونس"] } ,
   {
     "question": "تركيا",
-    "response": "أنقرة"
-  },
+    "responses": ["أنقرة"] } ,
   {
     "question": "أوكرانيا",
-    "response": "كييف"
-  },
+    "responses": ["كييف"] } ,
   {
     "question": "الإمارات",
-    "response": "أبوظبي"
-  },
+    "responses": ["أبوظبي"] } ,
   {
     "question": "المملكة المتحدة",
-    "response": "لندن"
-  },
+    "responses": ["لندن"] } ,
   {
     "question": "الولايات المتحدة",
-    "response": "واشنطن"
-  },
+    "responses": ["واشنطن"] } ,
   {
     "question": "أوروغواي",
-    "response": "مونتفيدو"
-  },
+    "responses": ["مونتفيدو"] } ,
   {
     "question": "فنزويلا",
-    "response": "كاراكاس"
-  },
+    "responses": ["كاراكاس"] } ,
   {
     "question": "فيتنام",
-    "response": "هانوي"
-  },
+    "responses": ["هانوي"] } ,
   {
     "question": "اليمن",
-    "response": "صنعاء"
+    "responses": ["صنعاء"]
   }
 ]
