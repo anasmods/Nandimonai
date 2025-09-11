@@ -1,0 +1,454 @@
+[
+  {
+    "question": "أزهار",
+    "responses": ["زهرة", "زهر"]
+  },
+  {
+    "question": "كتاب",
+    "responses": ["كتب", "كُتب"]
+  },
+  {
+    "question": "نجوم",
+    "responses": ["نجم", "نجمة"]
+  },
+  {
+    "question": "قلم",
+    "responses": ["أقلام", "اقلام"]
+  },
+  {
+    "question": "بحار",
+    "responses": ["بحر", "بحر"]
+  },
+  {
+    "question": "بيت",
+    "responses": ["بيوت", "بيوت"]
+  },
+  {
+    "question": "أشجار",
+    "responses": ["شجرة", "شجره"]
+  },
+  {
+    "question": "طالب",
+    "responses": ["طلاب", "طُلاب"]
+  },
+  {
+    "question": "سحب",
+    "responses": ["سحابة", "سحابه"]
+  },
+  {
+    "question": "مدرسة",
+    "responses": ["مدارس", "مدارس"]
+  },
+  {
+    "question": "جبال",
+    "responses": ["جبل", "جبل"]
+  },
+  {
+    "question": "طاولة",
+    "responses": ["طاولات", "طاوِلات"]
+  },
+  {
+    "question": "أنهار",
+    "responses": ["نهر", "نهر"]
+  },
+  {
+    "question": "وردة",
+    "responses": ["ورود", "ورد"]
+  },
+  {
+    "question": "أطفال",
+    "responses": ["طفل", "طفل"]
+  },
+  {
+    "question": "باب",
+    "responses": ["أبواب", "ابواب"]
+  },
+  {
+    "question": "ساعة",
+    "responses": ["ساعات", "ساعات"]
+  },
+  {
+    "question": "شمس",
+    "responses": ["شمس", "شمس"]
+  },
+  {
+    "question": "قمر",
+    "responses": ["أقمار", "اقمار"]
+  },
+  {
+    "question": "نافذة",
+    "responses": ["نوافذ", "نوافذ"]
+  },
+  {
+    "question": "رجل",
+    "responses": ["رجال", "رجال"]
+  },
+  {
+    "question": "امرأة",
+    "responses": ["نساء", "نساء"]
+  },
+  {
+    "question": "طائر",
+    "responses": ["طيور", "طيور"]
+  },
+  {
+    "question": "سمكة",
+    "responses": ["أسماك", "اسماك"]
+  },
+  {
+    "question": "حاسوب",
+    "responses": ["حواسيب", "حواسيب"]
+  },
+  {
+    "question": "هاتف",
+    "responses": ["هواتف", "هواتف"]
+  },
+  {
+    "question": "سيارة",
+    "responses": ["سيارات", "سيارات"]
+  },
+  {
+    "question": "دراجة",
+    "responses": ["دراجات", "دراجات"]
+  },
+  {
+    "question": "طائرة",
+    "responses": ["طائرات", "طائرات"]
+  },
+  {
+    "question": "سفينة",
+    "responses": ["سفن", "سُفن"]
+  },
+  {
+    "question": "قطار",
+    "responses": ["قطارات", "قطارات"]
+  },
+  {
+    "question": "شجرة",
+    "responses": ["أشجار", "اشجار"]
+  },
+  {
+    "question": "زهرة",
+    "responses": ["أزهار", "ازهار"]
+  },
+  {
+    "question": "ورقة",
+    "responses": ["أوراق", "اوراق"]
+  },
+  {
+    "question": "قصة",
+    "responses": ["قصص", "قصص"]
+  },
+  {
+    "question": "رواية",
+    "responses": ["روايات", "روايات"]
+  },
+  {
+    "question": "فيلم",
+    "responses": ["أفلام", "افلام"]
+  },
+  {
+    "question": "مسلسل",
+    "responses": ["مسلسلات", "مسلسلات"]
+  },
+  {
+    "question": "أغنية",
+    "responses": ["أغاني", "اغاني"]
+  },
+  {
+    "question": "لوحة",
+    "responses": ["لوحات", "لوحات"]
+  },
+  {
+    "question": "صورة",
+    "responses": ["صور", "صور"]
+  },
+  {
+    "question": "كلمة",
+    "responses": ["كلمات", "كلمات"]
+  },
+  {
+    "question": "جملة",
+    "responses": ["جمل", "جُمل"]
+  },
+  {
+    "question": "فقرة",
+    "responses": ["فقرات", "فقرات"]
+  },
+  {
+    "question": "كتاب",
+    "responses": ["كتب", "كُتب"]
+  },
+  {
+    "question": "مجلد",
+    "responses": ["مجلدات", "مجلدات"]
+  },
+  {
+    "question": "ملف",
+    "responses": ["ملفات", "ملفات"]
+  },
+  {
+    "question": "مكتب",
+    "responses": ["مكاتب", "مكاتب"]
+  },
+  {
+    "question": "كرسي",
+    "responses": ["كراسي", "كراسي"]
+  },
+  {
+    "question": "سرير",
+    "responses": ["أسرة", "اسرة"]
+  },
+  {
+    "question": "منضدة",
+    "responses": ["مناضد", "مناضد"]
+  },
+  {
+    "question": "خزانة",
+    "responses": ["خزائن", "خزائن"]
+  },
+  {
+    "question": "ثلاجة",
+    "responses": ["ثلااجات", "ثلااجات"]
+  },
+  {
+    "question": "غسالة",
+    "responses": ["غسالات", "غسالات"]
+  },
+  {
+    "question": "فرن",
+    "responses": ["أفران", "افران"]
+  },
+  {
+    "question": "ميكروويف",
+    "responses": ["ميكروويفات", "ميكروويفات"]
+  },
+  {
+    "question": "مروحة",
+    "responses": ["مراوح", "مراوح"]
+  },
+  {
+    "question": "تلفاز",
+    "responses": ["تلفازات", "تلفازات"]
+  },
+  {
+    "question": "راديو",
+    "responses": ["راديوهات", "راديوهات"]
+  },
+  {
+    "question": "كمبيوتر",
+    "responses": ["كمبيوترات", "كمبيوترات"]
+  },
+  {
+    "question": "لاب توب",
+    "responses": ["لاب توبات", "لاب توبات"]
+  },
+  {
+    "question": "تابلت",
+    "responses": ["تابلتات", "تابلتات"]
+  },
+  {
+    "question": "موبايل",
+    "responses": ["موبايلات", "موبايلات"]
+  },
+  {
+    "question": "ساعة",
+    "responses": ["ساعات", "ساعات"]
+  },
+  {
+    "question": "نظارة",
+    "responses": ["نظارات", "نظارات"]
+  },
+  {
+    "question": "خاتم",
+    "responses": ["خواتم", "خواتم"]
+  },
+  {
+    "question": "سوار",
+    "responses": ["أسورة", "اسورة"]
+  },
+  {
+    "question": "قلادة",
+    "responses": ["قلائد", "قلائد"]
+  },
+  {
+    "question": "حلق",
+    "responses": ["أقراط", "اقراط"]
+  },
+  {
+    "question": "سلسلة",
+    "responses": ["سلاسل", "سلاسل"]
+  },
+  {
+    "question": "حزام",
+    "responses": ["أحزمة", "احزمة"]
+  },
+  {
+    "question": "حذاء",
+    "responses": ["أحذية", "احذية"]
+  },
+  {
+    "question": "نعل",
+    "responses": ["نعال", "نعال"]
+  },
+  {
+    "question": "جورب",
+    "responses": ["جوارب", "جوارب"]
+  },
+  {
+    "question": "قبعة",
+    "responses": ["قبعات", "قبعات"]
+  },
+  {
+    "question": "وشاح",
+    "responses": ["أوشحة", "اوشحة"]
+  },
+  {
+    "question": "قفاز",
+    "responses": ["قفازات", "قفازات"]
+  },
+  {
+    "question": "معطف",
+    "responses": ["معاطف", "معاطف"]
+  },
+  {
+    "question": "بلوزة",
+    "responses": ["بلوزات", "بلوزات"]
+  },
+  {
+    "question": "تنورة",
+    "responses": ["تنانير", "تنانير"]
+  },
+  {
+    "question": "بنطال",
+    "responses": ["بناطيل", "بناطيل"]
+  },
+  {
+    "question": "قميص",
+    "responses": ["قمصان", "قمصان"]
+  },
+  {
+    "question": "فستان",
+    "responses": ["فساتين", "فساتين"]
+  },
+  {
+    "question": "بدلة",
+    "responses": ["بدلات", "بدلات"]
+  },
+  {
+    "question": "ربطة",
+    "responses": ["ربطات", "ربطات"]
+  },
+  {
+    "question": "حقيبة",
+    "responses": ["حقائب", "حقائب"]
+  },
+  {
+    "question": "محفظة",
+    "responses": ["محافظ", "محافظ"]
+  },
+  {
+    "question": "شنطة",
+    "responses": ["شنط", "شُطن"]
+  },
+  {
+    "question": "كرة",
+    "responses": ["كرات", "كرات"]
+  },
+  {
+    "question": "ملعب",
+    "responses": ["ملاعب", "ملاعب"]
+  },
+  {
+    "question": "مضرب",
+    "responses": ["مضارب", "مضارب"]
+  },
+  {
+    "question": "شبكة",
+    "responses": ["شبكات", "شبكات"]
+  },
+  {
+    "question": "هدف",
+    "responses": ["أهداف", "اهداف"]
+  },
+  {
+    "question": "حكم",
+    "responses": ["حكام", "حكام"]
+  },
+  {
+    "question": "لاعب",
+    "responses": ["لاعبين", "لاعبين"]
+  },
+  {
+    "question": "فريق",
+    "responses": ["فرق", "فِرق"]
+  },
+  {
+    "question": "مباراة",
+    "responses": ["مباريات", "مباريات"]
+  },
+  {
+    "question": "بطولة",
+    "responses": ["بطولات", "بطولات"]
+  },
+  {
+    "question": "كأس",
+    "responses": ["كؤوس", "كؤوس"]
+  },
+  {
+    "question": "ميدالية",
+    "responses": ["ميداليات", "ميداليات"]
+  },
+  {
+    "question": "شارة",
+    "responses": ["شارات", "شارات"]
+  },
+  {
+    "question": "علم",
+    "responses": ["أعلام", "اعلام"]
+  },
+  {
+    "question": "نشيد",
+    "responses": ["أناشيد", "اناشيد"]
+  },
+  {
+    "question": "شعار",
+    "responses": ["شعارات", "شعارات"]
+  },
+  {
+    "question": "شجرة",
+    "responses": ["أشجار", "اشجار"]
+  },
+  {
+    "question": "وردة",
+    "responses": ["ورود", "ورد"]
+  },
+  {
+    "question": "نبات",
+    "responses": ["نباتات", "نباتات"]
+  },
+  {
+    "question": "زهرة",
+    "responses": ["أزهار", "ازهار"]
+  },
+  {
+    "question": "بذرة",
+    "responses": ["بذور", "بذور"]
+  },
+  {
+    "question": "ثمرة",
+    "responses": ["ثمار", "ثمار"]
+  },
+  {
+    "question": "فاكهة",
+    "responses": ["فواكه", "فواكه"]
+  },
+  {
+    "question": "خضار",
+    "responses": ["خضروات", "خضروات"]
+  },
+  {
+    "question": "حبوب",
+    "responses": ["حب", "حب"]
+  }
+  ]

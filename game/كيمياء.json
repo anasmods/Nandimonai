@@ -1,0 +1,474 @@
+[
+  {
+    "question": "H",
+    "responses": ["هيدروجين", "هيدروجين"]
+  },
+  {
+    "question": "He",
+    "responses": ["هيليوم", "هيليوم"]
+  },
+  {
+    "question": "Li",
+    "responses": ["ليثيوم", "ليثيوم"]
+  },
+  {
+    "question": "Be",
+    "responses": ["بيريليوم", "بيريليوم"]
+  },
+  {
+    "question": "B",
+    "responses": ["بورون", "بورون"]
+  },
+  {
+    "question": "C",
+    "responses": ["كربون", "كربون"]
+  },
+  {
+    "question": "N",
+    "responses": ["نيتروجين", "نيتروجين"]
+  },
+  {
+    "question": "O",
+    "responses": ["أكسجين", "اكسجين"]
+  },
+  {
+    "question": "F",
+    "responses": ["فلور", "فلور"]
+  },
+  {
+    "question": "Ne",
+    "responses": ["نيون", "نيون"]
+  },
+  {
+    "question": "Na",
+    "responses": ["صوديوم", "صوديوم"]
+  },
+  {
+    "question": "Mg",
+    "responses": ["مغنيسيوم", "مغنيسيوم"]
+  },
+  {
+    "question": "Al",
+    "responses": ["ألومنيوم", "الومنيوم"]
+  },
+  {
+    "question": "Si",
+    "responses": ["سيليكون", "سيليكون"]
+  },
+  {
+    "question": "P",
+    "responses": ["فوسفور", "فوسفور"]
+  },
+  {
+    "question": "S",
+    "responses": ["كبريت", "كبريت"]
+  },
+  {
+    "question": "Cl",
+    "responses": ["كلور", "كلور"]
+  },
+  {
+    "question": "Ar",
+    "responses": ["أرجون", "ارغون"]
+  },
+  {
+    "question": "K",
+    "responses": ["بوتاسيوم", "بوتاسيوم"]
+  },
+  {
+    "question": "Ca",
+    "responses": ["كالسيوم", "كالسيوم"]
+  },
+  {
+    "question": "Sc",
+    "responses": ["سكانديوم", "سكانديوم"]
+  },
+  {
+    "question": "Ti",
+    "responses": ["تيتانيوم", "تيتانيوم"]
+  },
+  {
+    "question": "V",
+    "responses": ["فاناديوم", "فاناديوم"]
+  },
+  {
+    "question": "Cr",
+    "responses": ["كروم", "كروم"]
+  },
+  {
+    "question": "Mn",
+    "responses": ["منغنيز", "منغنيز"]
+  },
+  {
+    "question": "Fe",
+    "responses": ["حديد", "حديد"]
+  },
+  {
+    "question": "Co",
+    "responses": ["كوبالت", "كوبالت"]
+  },
+  {
+    "question": "Ni",
+    "responses": ["نيكل", "نيكل"]
+  },
+  {
+    "question": "Cu",
+    "responses": ["نحاس", "نحاس"]
+  },
+  {
+    "question": "Zn",
+    "responses": ["خارصين", "زنك"]
+  },
+  {
+    "question": "Ga",
+    "responses": ["غاليوم", "غاليوم"]
+  },
+  {
+    "question": "Ge",
+    "responses": ["جرمانيوم", "جرمانيوم"]
+  },
+  {
+    "question": "As",
+    "responses": ["زرنيخ", "زرنيخ"]
+  },
+  {
+    "question": "Se",
+    "responses": ["سيلينيوم", "سيلينيوم"]
+  },
+  {
+    "question": "Br",
+    "responses": ["بروم", "بروم"]
+  },
+  {
+    "question": "Kr",
+    "responses": ["كريبتون", "كريبتون"]
+  },
+  {
+    "question": "Rb",
+    "responses": ["روبيديوم", "روبيديوم"]
+  },
+  {
+    "question": "Sr",
+    "responses": ["سترونشيوم", "سترونشيوم"]
+  },
+  {
+    "question": "Y",
+    "responses": ["إتريوم", "يتريوم"]
+  },
+  {
+    "question": "Zr",
+    "responses": ["زركونيوم", "زركونيوم"]
+  },
+  {
+    "question": "Nb",
+    "responses": ["نيوبيوم", "نيوبيوم"]
+  },
+  {
+    "question": "Mo",
+    "responses": ["موليبدينوم", "موليبدينوم"]
+  },
+  {
+    "question": "Tc",
+    "responses": ["تكنيشيوم", "تكنيشيوم"]
+  },
+  {
+    "question": "Ru",
+    "responses": ["روثينيوم", "روثينيوم"]
+  },
+  {
+    "question": "Rh",
+    "responses": ["روديوم", "روديوم"]
+  },
+  {
+    "question": "Pd",
+    "responses": ["بالاديوم", "بالاديوم"]
+  },
+  {
+    "question": "Ag",
+    "responses": ["فضة", "فضة"]
+  },
+  {
+    "question": "Cd",
+    "responses": ["كادميوم", "كادميوم"]
+  },
+  {
+    "question": "In",
+    "responses": ["إنديوم", "انديوم"]
+  },
+  {
+    "question": "Sn",
+    "responses": ["قصدير", "قصدير"]
+  },
+  {
+    "question": "Sb",
+    "responses": ["إثمد", "انتيمون"]
+  },
+  {
+    "question": "Te",
+    "responses": ["تيلوريوم", "تيلوريوم"]
+  },
+  {
+    "question": "I",
+    "responses": ["يود", "يود"]
+  },
+  {
+    "question": "Xe",
+    "responses": ["زينون", "زينون"]
+  },
+  {
+    "question": "Cs",
+    "responses": ["سيزيوم", "سيزيوم"]
+  },
+  {
+    "question": "Ba",
+    "responses": ["باريوم", "باريوم"]
+  },
+  {
+    "question": "La",
+    "responses": ["لانثانوم", "لانثانوم"]
+  },
+  {
+    "question": "Ce",
+    "responses": ["سيريوم", "سيريوم"]
+  },
+  {
+    "question": "Pr",
+    "responses": ["براسيوديميوم", "براسيوديميوم"]
+  },
+  {
+    "question": "Nd",
+    "responses": ["نيوديميوم", "نيوديميوم"]
+  },
+  {
+    "question": "Pm",
+    "responses": ["بروميثيوم", "بروميثيوم"]
+  },
+  {
+    "question": "Sm",
+    "responses": ["ساماريوم", "ساماريوم"]
+  },
+  {
+    "question": "Eu",
+    "responses": ["يوروبيوم", "يوروبيوم"]
+  },
+  {
+    "question": "Gd",
+    "responses": ["جادولينيوم", "جادولينيوم"]
+  },
+  {
+    "question": "Tb",
+    "responses": ["تيربيوم", "تيربيوم"]
+  },
+  {
+    "question": "Dy",
+    "responses": ["ديسبروسيوم", "ديسبروسيوم"]
+  },
+  {
+    "question": "Ho",
+    "responses": ["هولميوم", "هولميوم"]
+  },
+  {
+    "question": "Er",
+    "responses": ["إربيوم", "اربيوم"]
+  },
+  {
+    "question": "Tm",
+    "responses": ["ثوليوم", "ثوليوم"]
+  },
+  {
+    "question": "Yb",
+    "responses": ["إتيربيوم", "يتيربيوم"]
+  },
+  {
+    "question": "Lu",
+    "responses": ["لوتيتيوم", "لوتيتيوم"]
+  },
+  {
+    "question": "Hf",
+    "responses": ["هافنيوم", "هافنيوم"]
+  },
+  {
+    "question": "Ta",
+    "responses": ["تانتالوم", "تانتالوم"]
+  },
+  {
+    "question": "W",
+    "responses": ["تنجستن", "تنجستن"]
+  },
+  {
+    "question": "Re",
+    "responses": ["رينيوم", "رينيوم"]
+  },
+  {
+    "question": "Os",
+    "responses": ["أوزميوم", "أوزميوم"]
+  },
+  {
+    "question": "Ir",
+    "responses": ["إيريديوم", "ايريديوم"]
+  },
+  {
+    "question": "Pt",
+    "responses": ["بلاتين", "بلاتين"]
+  },
+  {
+    "question": "Au",
+    "responses": ["ذهب", "ذهب"]
+  },
+  {
+    "question": "Hg",
+    "responses": ["زئبق", "زئبق"]
+  },
+  {
+    "question": "Tl",
+    "responses": ["ثاليوم", "ثاليوم"]
+  },
+  {
+    "question": "Pb",
+    "responses": ["رصاص", "رصاص"]
+  },
+  {
+    "question": "Bi",
+    "responses": ["بزموت", "بزموت"]
+  },
+  {
+    "question": "Po",
+    "responses": ["بولونيوم", "بولونيوم"]
+  },
+  {
+    "question": "At",
+    "responses": ["أستاتين", "استاتين"]
+  },
+  {
+    "question": "Rn",
+    "responses": ["رادون", "رادون"]
+  },
+  {
+    "question": "Fr",
+    "responses": ["فرانسيوم", "فرانسيوم"]
+  },
+  {
+    "question": "Ra",
+    "responses": ["راديوم", "راديوم"]
+  },
+  {
+    "question": "Ac",
+    "responses": ["أكتينيوم", "اكتينيوم"]
+  },
+  {
+    "question": "Th",
+    "responses": ["ثوريوم", "ثوريوم"]
+  },
+  {
+    "question": "Pa",
+    "responses": ["بروتكتينيوم", "بروتكتينيوم"]
+  },
+  {
+    "question": "U",
+    "responses": ["يورانيوم", "يورانيوم"]
+  },
+  {
+    "question": "Np",
+    "responses": ["نيبتونيوم", "نيبتونيوم"]
+  },
+  {
+    "question": "Pu",
+    "responses": ["بلوتونيوم", "بلوتونيوم"]
+  },
+  {
+    "question": "Am",
+    "responses": ["أمريسيوم", "امريسيوم"]
+  },
+  {
+    "question": "Cm",
+    "responses": ["كوريوم", "كوريوم"]
+  },
+  {
+    "question": "Bk",
+    "responses": ["بركليوم", "بركليوم"]
+  },
+  {
+    "question": "Cf",
+    "responses": ["كاليفورنيوم", "كاليفورنيوم"]
+  },
+  {
+    "question": "Es",
+    "responses": ["أينشتاينيوم", "اينشتاينيوم"]
+  },
+  {
+    "question": "Fm",
+    "responses": ["فيرميوم", "فيرميوم"]
+  },
+  {
+    "question": "Md",
+    "responses": ["مندليفيوم", "مندليفيوم"]
+  },
+  {
+    "question": "No",
+    "responses": ["نوبليوم", "نوبليوم"]
+  },
+  {
+    "question": "Lr",
+    "responses": ["لورنسيوم", "لورنسيوم"]
+  },
+  {
+    "question": "Rf",
+    "responses": ["رذرفورديوم", "رذرفورديوم"]
+  },
+  {
+    "question": "Db",
+    "responses": ["دوبنيوم", "دوبنيوم"]
+  },
+  {
+    "question": "Sg",
+    "responses": ["سيبورجيوم", "سيبورجيوم"]
+  },
+  {
+    "question": "Bh",
+    "responses": ["بوريوم", "بوريوم"]
+  },
+  {
+    "question": "Hs",
+    "responses": ["هاسيوم", "هاسيوم"]
+  },
+  {
+    "question": "Mt",
+    "responses": ["مايتنريوم", "مايتنريوم"]
+  },
+  {
+    "question": "Ds",
+    "responses": ["دارمشتاتيوم", "دارمشتاتيوم"]
+  },
+  {
+    "question": "Rg",
+    "responses": ["روentجينيوم", "roentgenium"]
+  },
+  {
+    "question": "Cn",
+    "responses": ["كوبرنيسيوم", "كوبرنيسيوم"]
+  },
+  {
+    "question": "Nh",
+    "responses": ["نيهونيوم", "نيهونيوم"]
+  },
+  {
+    "question": "Fl",
+    "responses": ["فлерوفيوم", "فлерوفيوم"]
+  },
+  {
+    "question": "Mc",
+    "responses": ["موسكوفيوم", "موسكوفيوم"]
+  },
+  {
+    "question": "Lv",
+    "responses": ["ليفرموريوم", "ليفرموريوم"]
+  },
+  {
+    "question": "Ts",
+    "responses": ["تينيسين", "تينيسين"]
+  },
+  {
+    "question": "Og",
+    "responses": ["أوغانيسون", "اوغانيسون"]
+  }
+]
