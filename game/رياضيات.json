@@ -1,0 +1,370 @@
+[
+  {
+    "question": "٧ + ٥",
+    "responses": ["12", "١٢"]
+  },
+  {
+    "question": "١٨ - ٩",
+    "responses": ["9", "٩"]
+  },
+  {
+    "question": "٦ × ٤",
+    "responses": ["24", "٢٤"]
+  },
+  {
+    "question": "٣٦ ÷ ٦",
+    "responses": ["6", "٦"]
+  },
+  {
+    "question": "٨ + ٩",
+    "responses": ["17", "١٧"]
+  },
+  {
+    "question": "٢٣ - ٧",
+    "responses": ["16", "١٦"]
+  },
+  {
+    "question": "٥ × ٧",
+    "responses": ["35", "٣٥"]
+  },
+  {
+    "question": "٤٩ ÷ ٧",
+    "responses": ["7", "٧"]
+  },
+  {
+    "question": "١٣ + ٨",
+    "responses": ["21", "٢١"]
+  },
+  {
+    "question": "٣٠ - ١٢",
+    "responses": ["18", "١٨"]
+  },
+  {
+    "question": "٩ × ٦",
+    "responses": ["54", "٥٤"]
+  },
+  {
+    "question": "٦٣ ÷ ٩",
+    "responses": ["7", "٧"]
+  },
+  {
+    "question": "١٥ + ٦",
+    "responses": ["21", "٢١"]
+  },
+  {
+    "question": "٢٧ - ١٣",
+    "responses": ["14", "١٤"]
+  },
+  {
+    "question": "٨ × ٨",
+    "responses": ["64", "٦٤"]
+  },
+  {
+    "question": "٨١ ÷ ٩",
+    "responses": ["9", "٩"]
+  },
+  {
+    "question": "٢٢ + ١١",
+    "responses": ["33", "٣٣"]
+  },
+  {
+    "question": "٤٥ - ١٨",
+    "responses": ["27", "٢٧"]
+  },
+  {
+    "question": "٧ × ٩",
+    "responses": ["63", "٦٣"]
+  },
+  {
+    "question": "٥٦ ÷ ٨",
+    "responses": ["7", "٧"]
+  },
+  {
+    "question": "١٩ + ١٤",
+    "responses": ["33", "٣٣"]
+  },
+  {
+    "question": "٥٠ - ٢٣",
+    "responses": ["27", "٢٧"]
+  },
+  {
+    "question": "٦ × ٩",
+    "responses": ["54", "٥٤"]
+  },
+  {
+    "question": "٧٢ ÷ ٨",
+    "responses": ["9", "٩"]
+  },
+  {
+    "question": "٢٥ + ١٧",
+    "responses": ["42", "٤٢"]
+  },
+  {
+    "question": "٦٠ - ٢٥",
+    "responses": ["35", "٣٥"]
+  },
+  {
+    "question": "٨ × ٧",
+    "responses": ["56", "٥٦"]
+  },
+  {
+    "question": "٦٤ ÷ ٨",
+    "responses": ["8", "٨"]
+  },
+  {
+    "question": "٣٢ + ١٩",
+    "responses": ["51", "٥١"]
+  },
+  {
+    "question": "٧٥ - ٢٨",
+    "responses": ["47", "٤٧"]
+  },
+  {
+    "question": "٩ × ٨",
+    "responses": ["72", "٧٢"]
+  },
+  {
+    "question": "٨٨ ÷ ١١",
+    "responses": ["8", "٨"]
+  },
+  {
+    "question": "٤٣ + ٢٩",
+    "responses": ["72", "٧٢"]
+  },
+  {
+    "question": "٩٠ - ٣٥",
+    "responses": ["55", "٥٥"]
+  },
+  {
+    "question": "١٢ × ٦",
+    "responses": ["72", "٧٢"]
+  },
+  {
+    "question": "٩٦ ÷ ١٢",
+    "responses": ["8", "٨"]
+  },
+  {
+    "question": "٥٦ + ٢٧",
+    "responses": ["83", "٨٣"]
+  },
+  {
+    "question": "١٠٠ - ٤٥",
+    "responses": ["55", "٥٥"]
+  },
+  {
+    "question": "١١ × ٩",
+    "responses": ["99", "٩٩"]
+  },
+  {
+    "question": "١٠٨ ÷ ٩",
+    "responses": ["12", "١٢"]
+  },
+  {
+    "question": "٦٨ + ٢٤",
+    "responses": ["92", "٩٢"]
+  },
+  {
+    "question": "١٢٠ - ٥٨",
+    "responses": ["62", "٦٢"]
+  },
+  {
+    "question": "١٣ × ٧",
+    "responses": ["91", "٩١"]
+  },
+  {
+    "question": "١٢١ ÷ ١١",
+    "responses": ["11", "١١"]
+  },
+  {
+    "question": "٧٧ + ٣٣",
+    "responses": ["110", "١١٠"]
+  },
+  {
+    "question": "١٥٠ - ٦٧",
+    "responses": ["83", "٨٣"]
+  },
+  {
+    "question": "١٤ × ٨",
+    "responses": ["112", "١١٢"]
+  },
+  {
+    "question": "١٤٤ ÷ ١٢",
+    "responses": ["12", "١٢"]
+  },
+  {
+    "question": "٨٩ + ٤٣",
+    "responses": ["132", "١٣٢"]
+  },
+  {
+    "question": "٢٠٠ - ٨٩",
+    "responses": ["111", "١١١"]
+  },
+  {
+    "question": "١٥ × ٩",
+    "responses": ["135", "١٣٥"]
+  },
+  {
+    "question": "١٦٩ ÷ ١٣",
+    "responses": ["13", "١٣"]
+  },
+  {
+    "question": "٩٩ + ٥٥",
+    "responses": ["154", "١٥٤"]
+  },
+  {
+    "question": "٢٥٠ - ٩٩",
+    "responses": ["151", "١٥١"]
+  },
+  {
+    "question": "١٦ × ١٠",
+    "responses": ["160", "١٦٠"]
+  },
+  {
+    "question": "١٩٦ ÷ ١٤",
+    "responses": ["14", "١٤"]
+  },
+  {
+    "question": "١٢٣ + ٤٥",
+    "responses": ["168", "١٦٨"]
+  },
+  {
+    "question": "٣٠٠ - ١٢٣",
+    "responses": ["177", "١٧٧"]
+  },
+  {
+    "question": "١٧ × ٩",
+    "responses": ["153", "١٥٣"]
+  },
+  {
+    "question": "٢٢٥ ÷ ١٥",
+    "responses": ["15", "١٥"]
+  },
+  {
+    "question": "١٥٦ + ٦٧",
+    "responses": ["223", "٢٢٣"]
+  },
+  {
+    "question": "٤٠٠ - ١٥٦",
+    "responses": ["244", "٢٤٤"]
+  },
+  {
+    "question": "١٨ × ١١",
+    "responses": ["198", "١٩٨"]
+  },
+  {
+    "question": "٢٥٦ ÷ ١٦",
+    "responses": ["16", "١٦"]
+  },
+  {
+    "question": "١٨٩ + ٧٨",
+    "responses": ["267", "٢٦٧"]
+  },
+  {
+    "question": "٥٠٠ - ١٨٩",
+    "responses": ["311", "٣١١"]
+  },
+  {
+    "question": "١٩ × ١٢",
+    "responses": ["228", "٢٢٨"]
+  },
+  {
+    "question": "٢٨٩ ÷ ١٧",
+    "responses": ["17", "١٧"]
+  },
+  {
+    "question": "٢٣٤ + ٨٩",
+    "responses": ["323", "٣٢٣"]
+  },
+  {
+    "question": "٦٠٠ - ٢٣٤",
+    "responses": ["366", "٣٦٦"]
+  },
+  {
+    "question": "٢٠ × ١٣",
+    "responses": ["260", "٢٦٠"]
+  },
+  {
+    "question": "٣٢٤ ÷ ١٨",
+    "responses": ["18", "١٨"]
+  },
+  {
+    "question": "٢٧٨ + ٩٩",
+    "responses": ["377", "٣٧٧"]
+  },
+  {
+    "question": "٧٠٠ - ٢٧٨",
+    "responses": ["422", "٤٢٢"]
+  },
+  {
+    "question": "٢١ × ١٤",
+    "responses": ["294", "٢٩٤"]
+  },
+  {
+    "question": "٣٦١ ÷ ١٩",
+    "responses": ["19", "١٩"]
+  },
+  {
+    "question": "٣٢١ + ٨٧",
+    "responses": ["408", "٤٠٨"]
+  },
+  {
+    "question": "٨٠٠ - ٣٢١",
+    "responses": ["479", "٤٧٩"]
+  },
+  {
+    "question": "٢٢ × ١٥",
+    "responses": ["330", "٣٣٠"]
+  },
+  {
+    "question": "٤٠٠ ÷ ٢٠",
+    "responses": ["20", "٢٠"]
+  },
+  {
+    "question": "٣٦٥ + ١٢٣",
+    "responses": ["488", "٤٨٨"]
+  },
+  {
+    "question": "٩٠٠ - ٣٦٥",
+    "responses": ["535", "٥٣٥"]
+  },
+  {
+    "question": "٢٣ × ١٦",
+    "responses": ["368", "٣٦٨"]
+  },
+  {
+    "question": "٤٤١ ÷ ٢١",
+    "responses": ["21", "٢١"]
+  },
+  {
+    "question": "٤٣٢ + ١٩٨",
+    "responses": ["630", "٦٣٠"]
+  },
+  {
+    "question": "١٠٠٠ - ٤٣٢",
+    "responses": ["568", "٥٦٨"]
+  },
+  {
+    "question": "٢٤ × ١٧",
+    "responses": ["408", "٤٠٨"]
+  },
+  {
+    "question": "٤٨٤ ÷ ٢٢",
+    "responses": ["22", "٢٢"]
+  },
+  {
+    "question": "٥٤٣ + ٢١٠",
+    "responses": ["753", "٧٥٣"]
+  },
+  {
+    "question": "١٢٠٠ - ٥٤٣",
+    "responses": ["657", "٦٥٧"]
+  },
+  {
+    "question": "٢٥ × ١٨",
+    "responses": ["450", "٤٥٠"]
+  },
+  {
+    "question": "٥٢٩ ÷ ٢٣",
+    "responses": ["23", "٢٣"]
+  }
+]
